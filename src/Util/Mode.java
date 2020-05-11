@@ -1,5 +1,5 @@
 package Util;
 
 public enum Mode {
-	easy, medium, hard;
+    easy, medium, hard;
 }
